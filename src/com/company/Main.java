@@ -15,7 +15,7 @@ public class Main {
 
                 data = s.next();
                 arr[i++] = data;
-                System.out.println(data);
+
 
             }
             i--;
